@@ -1,6 +1,29 @@
-## GEMS Sensing
+# GEMS Sensing
 
 
 # About GEMS Sensing
 GEMS Sensing is a Service Organization of the [GEMS Informatics Center](https://gems.umn.edu)
-in the University of Minnesota. Technologies are developed in the [Real-time GeoInformation Systems Lab](https://gems.umn.edu/runck-lab-real-time-geoinformation-systems) and supported by the [Minnesota Supercomputing Institute](https://www.msi.umn.edu).
+at the University of Minnesota. Technologies are developed in the [Real-time GeoInformation Systems Lab](https://gems.umn.edu/runck-lab-real-time-geoinformation-systems) and supported by the [Minnesota Supercomputing Institute](https://www.msi.umn.edu).
+
+# What GEMS Sensing Provides
+GEMS Sensing provides:
+1. A standard sensor data collection, integration, visualization, and download interface.
+  - Hardware, see [here](https://docs.google.com/presentation/d/1kPZQUX78Zz0QIEOzYnMinlF56guJeX7Tj5Mpi_fBbqA/edit#slide=id.p)
+  - Software, see [here](https://docs.google.com/presentation/d/1QI4CPYDpmwvkknx_j6gJL78oJswFsAZ1RGw0mIt8DoA/edit?usp=sharing)
+  - Data Quality Assurance and Quality Control Flagging and more details, see [here](https://drive.google.com/file/d/19TvlmE-s2IM_KUYSgS6Zi3YtZK6CkIK5/view?usp=sharing)
+3. Daily remote monitoring of each sensor in the field deployment, email notification if a sensor is down in your fleet, and remote technical support as you need it for solving the problem.
+4. Templated standard operating procedures for managing the systems in the field. See [here](https://drive.google.com/drive/folders/1MkgD5a7tqKsihoUTgzv6W-Vz_hBZY4PG?usp=drive_link) for an example.
+
+# What Hardware does GEMS Sensing Use?
+See [here](https://docs.google.com/presentation/d/1kPZQUX78Zz0QIEOzYnMinlF56guJeX7Tj5Mpi_fBbqA/edit#slide=id.p).
+
+The majority of our hardware is off-the-shelf from the best manufacturers of environmental sensors such as Apogee, Davis, and Acclima. 
+
+# What does GEMS Sensing Cost?
+
+These prices vary year to year.
+
+# What GEMS Sensing doesn't Provide:
+We don't provide:
+1. Full service field deployment and data collection. The [RTGS Lab](https://gems.umn.edu/runck-lab-real-time-geoinformation-systems) collaborates on research projects though at the co-PI and PI levels.
+2. Consulting. We also do that through the RTGS Lab though.
