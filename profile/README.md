@@ -21,7 +21,7 @@ The majority of our hardware is off-the-shelf from the best manufacturers of env
 
 # What does GEMS Sensing Cost?
 
-These prices vary year to year.
+These prices vary year to year, but here's a [sheet](https://docs.google.com/spreadsheets/d/1JM_3hssZ7EKTkJvvdXynYLw_Hqp4CS65hYAaL8H-5D8/edit#gid=0) to estimate for internal to UMN collaborations. If you're a non-UMN collaborator, we have to follow a different approach to establishing rates that ensures parity with the general market.
 
 # What GEMS Sensing doesn't Provide:
 We don't provide:
