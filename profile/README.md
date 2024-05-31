@@ -8,9 +8,9 @@ at the University of Minnesota. Technologies are developed in the [Real-time Geo
 # What GEMS Sensing Provides
 GEMS Sensing provides:
 1. A standard sensor data collection, integration, visualization, and download interface.
-  - Hardware, see [here](https://docs.google.com/presentation/d/1kPZQUX78Zz0QIEOzYnMinlF56guJeX7Tj5Mpi_fBbqA/edit#slide=id.p)
-  - Software, see [here](https://docs.google.com/presentation/d/1QI4CPYDpmwvkknx_j6gJL78oJswFsAZ1RGw0mIt8DoA/edit?usp=sharing)
-  - Data Quality Assurance and Quality Control Flagging and more details, see [here](https://drive.google.com/file/d/19TvlmE-s2IM_KUYSgS6Zi3YtZK6CkIK5/view?usp=sharing)
+    - Hardware, see [here](https://docs.google.com/presentation/d/1kPZQUX78Zz0QIEOzYnMinlF56guJeX7Tj5Mpi_fBbqA/edit#slide=id.p)
+    - Software, see [here](https://docs.google.com/presentation/d/1QI4CPYDpmwvkknx_j6gJL78oJswFsAZ1RGw0mIt8DoA/edit?usp=sharing)
+    - Data Quality Assurance and Quality Control Flagging and more details, see [here](https://drive.google.com/file/d/19TvlmE-s2IM_KUYSgS6Zi3YtZK6CkIK5/view?usp=sharing)
 3. Daily remote monitoring of each sensor in the field deployment, email notification if a sensor is down in your fleet, and remote technical support as you need it for solving the problem.
 4. Templated standard operating procedures for managing the systems in the field. See [here](https://drive.google.com/drive/folders/1MkgD5a7tqKsihoUTgzv6W-Vz_hBZY4PG?usp=drive_link) for an example.
 
