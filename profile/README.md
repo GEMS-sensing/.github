@@ -32,4 +32,4 @@ We don't provide:
 Yes! But this is an [RTGS Lab](https://gems.umn.edu/runck-lab-real-time-geoinformation-systems) project. We'll work with our sponsored project office to get things setup. We work with SDI-12, I2C, and analog devices.
 
 # Does your system work in [Europe, Africa, Asia, ...]?
-Likely, but not for certain. The Particle [B-Series SoM](https://docs.particle.io/b-series/) is the backbone of our logger and telemetry. We can swap out B-Series SoMs to work most places (see [here](https://docs.particle.io/reference/cellular/cellular-carriers/?tab=ByDevice&device=Tracker%20T404%2FONE404%20LTE%20M1%20(NorAm)%20EtherSIM&region=All), but we always recommend doing pilots if we haven't deployed in a location before.
+Likely, but not for certain. The Particle [B-Series SoM](https://docs.particle.io/b-series/) is the backbone of our logger and telemetry. We can swap out B-Series SoMs to work most places (see [here](https://docs.particle.io/reference/cellular/cellular-carriers/?tab=ByDevice&device=Tracker%20T404%2FONE404%20LTE%20M1%20(NorAm)%20EtherSIM&region=All)) but we always recommend doing pilots if we haven't deployed in a location before.
